@@ -23,7 +23,7 @@ public class GerenciadorProdutos extends Produto {
         }else if (produto.getPreco()==null) {
             System.out.println("Não foi possivel registrar o cadastro, preço não informado!\"");
         } else {
-            
+
         }
     }
 }
